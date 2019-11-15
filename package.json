@@ -1,12 +1,17 @@
 {
-  "name": "folktale2",
+  "name": "result-task-nt",
   "version": "1.0.0",
-  "description": "",
+  "description": "experiments: result to task natural transformation",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "learning-by-doing",
+    "functional-programming",
+    "natural transformations",
+    "folktale"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
